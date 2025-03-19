@@ -14,3 +14,15 @@ Share your favorite technology and its cool use cases at our future Jams. Each t
    - Organization name
    - Short description of the technology
 4. Check submission deadlines [here](https://github.com/DevRelJam/.github/tree/main/profile#upcoming-devrel-jams-).
+
+### Selection Process
+
+- After the submission deadline, all submissions will be analyzed and pair speakers based on their technology topics.
+- Selected speakers will be notified via GitHub issues assigned to them.
+- Non-selected submissions will receive a thank you note, and their issues will be closed.
+
+## Important Notes
+
+- Focus on core technology aspects; avoid sales pitches.
+- Ensure your demo showcases a cool use case of technology integration.
+- Be prepared to collaborate with another speaker for your lightning talk.
