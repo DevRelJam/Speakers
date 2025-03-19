@@ -17,7 +17,7 @@ Share your favorite technology and its cool use cases at our future Jams. Each t
 
 ### Selection Process 🐛
 
-- After the submission deadline, all submissions will be analyzed and pair speakers based on their technology topics.
+- After the deadline, all submissions will be analyzed and pair speakers based on their technology topics.
 - Selected speakers will be notified via GitHub issues assigned to them.
 - Non-selected submissions will receive a thank you note, and their issues will be closed.
 
