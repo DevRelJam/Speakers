@@ -27,6 +27,6 @@ body:
     id: technology-description
     attributes:
       label: Technology Description
-      placeholder: Provide a short description of the technology you wish to showcase. A brief overview of the technology and its key features.
+      placeholder: Provide a brief overview of the technology you wish to showcase and its key features. Focus on core technology aspects; avoid sales pitches.
     validations:
       required: true
