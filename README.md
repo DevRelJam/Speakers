@@ -1,27 +1,31 @@
 # Call For Speakers
 
-We are looking for DevRel professionals to present 15-minute lightning talks. 
+DevRel Jam is a meetup specifically designed for Developer Relations (DevRel) professionals. Our aim is to move beyond typical DevRel discussions and delve into the core technologies that DevRels work with and advocate for. We believe in learning through practical demonstrations and peer-to-peer knowledge sharing.
 
-Share your favorite technology and its cool use cases at our future Jams. Each talk will feature two speakers focusing on core technologies and showcasing how they integrate or work together.
+- **Unique Format:** Every DevRel Jam features lightning talks with pairs of speakers focusing on how different technologies integrate or work together.
+- **Meaningful Networking:** Ample time for networking to foster connections and learning among peers.
 
-### How to Submit 🧵
+Share your favorite technology and its cool use cases in 15-minute lightning talks at our future Jams. Each talk will feature two speakers focusing on core technologies and showcasing how they integrate or work together.
 
-1. Create an issue in this repository using [this Issue Form](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml).
-2. In the issue title, enter the technology topic you would like to showcase.
-3. Fill in the required details in the issue form:
-   - Speaker's name
-   - Designation/role
-   - Organization name
-   - Short description of the technology
-4. Check submission deadlines [here](https://github.com/DevRelJam/.github/tree/main/profile#upcoming-devrel-jams-).
+## Upcoming Jams 🚀
 
-### Selection Process 🐛
+### [**Bengaluru, India 🇮🇳**](https://github.com/devreljam/BLR-APR-2025)
+  - Date: Thursday, 24th April 2025
+  - Co-located with Great International Developer Summit (GIDS) 2025
+  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=BLR-APR-2025) by **11:59 PM IST, 6th April 2025**
+
+### [**Hyderabad, India 🇮🇳**](https://github.com/devreljam/HYD-AUG-2025)
+  - Date: Thursday, 7th August 2025
+  - Co-located with KubeCon India 2025
+  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=HYD-AUG-2025) by **11:59 PM IST, 29th June 2025**
+
+## Selection Process 🐛
 
 - After the deadline, all submissions will be analyzed and pair speakers based on their technology topics.
 - Selected speakers will be notified via GitHub issues assigned to them.
 - Non-selected submissions will receive a thank you note, and their issues will be closed.
 
-### Important Notes 📝
+## Important Notes 📝
 
 - Focus on core technology aspects; avoid sales pitches.
 - Ensure your demo showcases a cool use case of technology integration.
