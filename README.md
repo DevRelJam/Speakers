@@ -26,3 +26,9 @@ Share your favorite technology and its cool use cases at our future Jams. Each t
 - Focus on core technology aspects; avoid sales pitches.
 - Ensure your demo showcases a cool use case of technology integration.
 - Be prepared to collaborate with another speaker for your lightning talk.
+
+We look forward to your submissions and to an exciting Jam!
+
+---
+
+*For any questions, please reach out to [Yashraj Nayak](https://www.linkedin.com/in/yashrajnayak/).*
