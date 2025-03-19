@@ -1,0 +1,32 @@
+name: Call for Speakers
+description: Submit your proposal to speak at DevRel Jams. Each talk will be a duo presentation focusing on core technologies and their integration.
+title: "[Speaker Proposal] <Your Technology Topic>"
+body:
+  - type: input
+    id: speaker-name
+    attributes:
+      label: Speaker's Name
+      placeholder: Please enter your full name.
+    validations:
+      required: true
+  - type: input
+    id: designation
+    attributes:
+      label: Designation/Role
+      placeholder: Please enter your current role or designation.
+    validations:
+      required: true
+  - type: input
+    id: organization
+    attributes:
+      label: Organization Name
+      placeholder: Please enter the name of your organization.
+    validations:
+      required: true
+  - type: textarea
+    id: technology-description
+    attributes:
+      label: Technology Description
+      placeholder: Provide a short description of the technology you wish to showcase. A brief overview of the technology and its key features.
+    validations:
+      required: true
