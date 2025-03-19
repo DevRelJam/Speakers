@@ -35,4 +35,4 @@ We look forward to your submissions and to an exciting Jam!
 
 ---
 
-*For any questions, please reach out to [Yashraj Nayak](https://www.linkedin.com/in/yashrajnayak/).*
+*For any questions, please reach out to [Yashraj Nayak](https://www.linkedin.com/in/yashrajnayak/)*
