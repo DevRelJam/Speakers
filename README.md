@@ -5,7 +5,7 @@ DevRelJam is a meetup specifically designed for Developer Relations (DevRel) pro
 - Every DevRelJam features "duo presentations" by speakers focusing on latest technologies and how they integrate with each other.
 - Ample time for networking to foster connections and learning among peers.
 
-Share your favorite technology and its cool use cases in 7.5 minutes at our future Jams. Each talk will feature two speakers.
+Share your favorite technology and its cool use cases in 7.5 minutes at future Jams!
 
 - 7.5 mins: Speaker 1
 - 7.5 mins: Speaker 2
