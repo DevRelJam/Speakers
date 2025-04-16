@@ -30,8 +30,8 @@ Total combined length: 30 min
 ### Upcoming Jams 🚀
 
 #### [**Bengaluru, India 🇮🇳**](https://github.com/devreljam/BLR-APR-2025)
-  - Date: Thursday, 24th April 2025
-  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=BLR-APR-2025) by **11:59 PM IST, 6th April 2025**
+  - Date: Thursday, 22nd April 2025
+  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=BLR-APR-2025) by **11:59 PM IST, 16th April 2025**
 
 #### [**Hyderabad, India 🇮🇳**](https://github.com/devreljam/HYD-AUG-2025)
   - Date: Thursday, 7th August 2025
