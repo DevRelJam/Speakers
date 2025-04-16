@@ -1,9 +1,8 @@
 ## Call For Speakers
 
-DevRelJam is a meetup specifically designed for Developer Relations (DevRel) professionals. Our aim is to move beyond typical DevRel discussions and delve into the core technologies that DevRels work with and advocate for.
+DevRelJam is a meetup specifically designed for Developer Relations (DevRel) professionals. 
 
-- Every DevRelJam features "duo presentations" by speakers focusing on latest technologies and how they integrate with each other.
-- Ample time for networking to foster connections and learning among peers.
+Our aim is to move beyond typical DevRel discussions and delve into the core technologies that DevRels work with and advocate for. Every DevRelJam features "duo presentations" by speakers focusing on latest technologies and how they integrate with each other.
 
 Share your favorite technology and its cool use cases in 7.5 minutes at future Jams!
 
