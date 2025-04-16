@@ -18,7 +18,7 @@ Total combined length: 30 min
 - You only have to submit your topic, without having to worry about co-speaker or their topic
 - After the deadline, all submissions will be analyzed by AI and humans to pair speakers based on their technology topics
 - Talk gets confirmed only when pairing is successful and have been accepted by both speakers
-- All unpaired submissions remains open for upcoming Jams
+- All unpaired submissions remain open for upcoming Jams
 
 ### Important Notes 📝
 
