@@ -12,7 +12,7 @@ Share your favorite technology and its cool use cases in 7.5 minutes at future J
 - 7.5 mins: How Speaker 1's topic integrates with Speaker 2's topic
 - 7.5 mins: Q&A
 
-Total combined length: 30 minn
+Total combined length: 30 min
 
 ### Selection Process 🐛
 
