@@ -19,11 +19,11 @@ Total combined length: 30 min
 - You only have to submit your topic, without having to worry about co-speaker or their topic
 - After the deadline, all submissions will be analyzed by AI and humans to pair speakers based on their technology topics
 - Talk gets confirmed only when pairing is successful and have been accepted by both speakers
-- All unpaired submission remains open for upcoming Jams
+- All unpaired submissions remains open for upcoming Jams
 
 ### Important Notes 📝
 
-- Focus on core technology aspects; avoid sales pitches.
+- Kindly focus on core technology aspects; avoid product or sales pitches.
 - Ensure your demo showcases a cool use case of technology integration.
 - Be prepared to collaborate with another speaker for your lightning talk.
 
